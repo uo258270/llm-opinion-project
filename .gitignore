@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# CIS microdata and documentation: not redistributed, regenerate with src/load_cis3194.py
+data/raw/
+
+# macOS
+.DS_Store

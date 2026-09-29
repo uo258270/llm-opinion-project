@@ -1,0 +1,4 @@
+pandas==2.3.3
+pyreadstat==1.2.9  # 1.3+ requires Python >= 3.10
+requests
+pypdf  # only for reading the CIS PDFs during exploration

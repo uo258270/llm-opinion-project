@@ -1,0 +1,271 @@
+persona_id,sex,age_group,religiosity,item,code,label,n_valid,proportion
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,1,No cree en Dios,35,0.06153801901695702
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,35,0.086654701635156
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",35,0.3103150970642222
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",35,0.25878906108192057
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",35,0.133537005338514
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,35,0.14916611586323023
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,35,0.0
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P35,2,De acuerdo,35,0.0
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,35,0.050762201392615745
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P35,4,En desacuerdo,35,0.1862507810920674
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,35,0.7629870175153167
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,35,0.0933042272036037
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,35,0.3751681646287442
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",35,0.5315276081676521
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",35,0.0
+p02,Hombre,18-34,No religiosa,P42,1,No cree en Dios,100,0.4839980139767795
+p02,Hombre,18-34,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,100,0.25033683973214976
+p02,Hombre,18-34,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",100,0.14371616640450785
+p02,Hombre,18-34,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",100,0.04862342417153245
+p02,Hombre,18-34,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",100,0.05257893503703245
+p02,Hombre,18-34,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,100,0.020746620677997846
+p02,Hombre,18-34,No religiosa,P35,1,Muy de acuerdo,101,0.021731095766585214
+p02,Hombre,18-34,No religiosa,P35,2,De acuerdo,101,0.00969708510223838
+p02,Hombre,18-34,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,101,0.029395152067528917
+p02,Hombre,18-34,No religiosa,P35,4,En desacuerdo,101,0.22887140083640992
+p02,Hombre,18-34,No religiosa,P35,5,Muy en desacuerdo,101,0.7103052662272376
+p02,Hombre,18-34,No religiosa,P11,1,Casi siempre se puede confiar en la gente,101,0.14639781498876384
+p02,Hombre,18-34,No religiosa,P11,2,Normalmente se puede confiar en la gente,101,0.4077892172935197
+p02,Hombre,18-34,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",101,0.3088299506834071
+p02,Hombre,18-34,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",101,0.13698301703430932
+p03,Hombre,18-34,Religiosa,P42,1,No cree en Dios,36,0.0
+p03,Hombre,18-34,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,36,0.027372516253550687
+p03,Hombre,18-34,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",36,0.027042301137344883
+p03,Hombre,18-34,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",36,0.0
+p03,Hombre,18-34,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",36,0.28170538789137833
+p03,Hombre,18-34,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,36,0.6638797947177261
+p03,Hombre,18-34,Religiosa,P35,1,Muy de acuerdo,37,0.0
+p03,Hombre,18-34,Religiosa,P35,2,De acuerdo,37,0.05207880983326652
+p03,Hombre,18-34,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,37,0.22530932116574173
+p03,Hombre,18-34,Religiosa,P35,4,En desacuerdo,37,0.3039737210369079
+p03,Hombre,18-34,Religiosa,P35,5,Muy en desacuerdo,37,0.4186381479640839
+p03,Hombre,18-34,Religiosa,P11,1,Casi siempre se puede confiar en la gente,37,0.15067789681394134
+p03,Hombre,18-34,Religiosa,P11,2,Normalmente se puede confiar en la gente,37,0.3508959614391122
+p03,Hombre,18-34,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",37,0.331837249360337
+p03,Hombre,18-34,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",37,0.16658889238660948
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,1,No cree en Dios,79,0.04791905506336419
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,79,0.09614202457184519
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",79,0.16207526092072752
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",79,0.2291862133808118
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",79,0.3031994646843545
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,79,0.16147798137889696
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,78,0.03308890266968617
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P35,2,De acuerdo,78,0.01878171372052452
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,78,0.010535107102608538
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P35,4,En desacuerdo,78,0.365145437489223
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,78,0.5724488390179577
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,79,0.09680268391916491
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,79,0.3707476259739731
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",79,0.33314168038170466
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",79,0.19930800972515728
+p05,Hombre,35-54,No religiosa,P42,1,No cree en Dios,176,0.42737517438413625
+p05,Hombre,35-54,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,176,0.17839480711163933
+p05,Hombre,35-54,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",176,0.1255275722265025
+p05,Hombre,35-54,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",176,0.10166670118382057
+p05,Hombre,35-54,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",176,0.11487322219945144
+p05,Hombre,35-54,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,176,0.052162522894449864
+p05,Hombre,35-54,No religiosa,P35,1,Muy de acuerdo,178,0.011922024805011274
+p05,Hombre,35-54,No religiosa,P35,2,De acuerdo,178,0.036365420277738245
+p05,Hombre,35-54,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,178,0.04426477626774559
+p05,Hombre,35-54,No religiosa,P35,4,En desacuerdo,178,0.18323939354217092
+p05,Hombre,35-54,No religiosa,P35,5,Muy en desacuerdo,178,0.724208385107334
+p05,Hombre,35-54,No religiosa,P11,1,Casi siempre se puede confiar en la gente,177,0.13502087175259614
+p05,Hombre,35-54,No religiosa,P11,2,Normalmente se puede confiar en la gente,177,0.5013799350140056
+p05,Hombre,35-54,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",177,0.2901494772910152
+p05,Hombre,35-54,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",177,0.07344971594238307
+p06,Hombre,35-54,Religiosa,P42,1,No cree en Dios,87,0.0
+p06,Hombre,35-54,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,87,0.03283516381200707
+p06,Hombre,35-54,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",87,0.025159659485790402
+p06,Hombre,35-54,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",87,0.03576232186326939
+p06,Hombre,35-54,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",87,0.2776779987887997
+p06,Hombre,35-54,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,87,0.6285648560501335
+p06,Hombre,35-54,Religiosa,P35,1,Muy de acuerdo,86,0.10754788252959104
+p06,Hombre,35-54,Religiosa,P35,2,De acuerdo,86,0.07308714852991068
+p06,Hombre,35-54,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,86,0.10771564646567007
+p06,Hombre,35-54,Religiosa,P35,4,En desacuerdo,86,0.3364744388588125
+p06,Hombre,35-54,Religiosa,P35,5,Muy en desacuerdo,86,0.3751748836160156
+p06,Hombre,35-54,Religiosa,P11,1,Casi siempre se puede confiar en la gente,87,0.12395675752150748
+p06,Hombre,35-54,Religiosa,P11,2,Normalmente se puede confiar en la gente,87,0.40379539815626025
+p06,Hombre,35-54,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",87,0.34378269740104667
+p06,Hombre,35-54,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",87,0.12846514692118546
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,1,No cree en Dios,81,0.043302539276406864
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,81,0.07014958851980069
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",81,0.14310220189632236
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",81,0.14168114588262876
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",81,0.3948726592703017
+p07,Hombre,55+,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,81,0.2068918651545397
+p07,Hombre,55+,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,83,0.031249824013507347
+p07,Hombre,55+,Ni religiosa ni no religiosa,P35,2,De acuerdo,83,0.14315257011851934
+p07,Hombre,55+,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,83,0.14080858863349713
+p07,Hombre,55+,Ni religiosa ni no religiosa,P35,4,En desacuerdo,83,0.3913676002717048
+p07,Hombre,55+,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,83,0.2934214169627713
+p07,Hombre,55+,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,82,0.1107322487267701
+p07,Hombre,55+,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,82,0.4689566775811951
+p07,Hombre,55+,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",82,0.3387509745820313
+p07,Hombre,55+,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",82,0.08156009911000359
+p08,Hombre,55+,No religiosa,P42,1,No cree en Dios,125,0.3460197334057831
+p08,Hombre,55+,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,125,0.2584306905445197
+p08,Hombre,55+,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",125,0.12848770483343094
+p08,Hombre,55+,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",125,0.11628975026313858
+p08,Hombre,55+,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",125,0.11385578272397837
+p08,Hombre,55+,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,125,0.036916338229149456
+p08,Hombre,55+,No religiosa,P35,1,Muy de acuerdo,125,0.04489631566906498
+p08,Hombre,55+,No religiosa,P35,2,De acuerdo,125,0.06163954408397742
+p08,Hombre,55+,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,125,0.09164793073147726
+p08,Hombre,55+,No religiosa,P35,4,En desacuerdo,125,0.32217288335619876
+p08,Hombre,55+,No religiosa,P35,5,Muy en desacuerdo,125,0.47964332615928174
+p08,Hombre,55+,No religiosa,P11,1,Casi siempre se puede confiar en la gente,126,0.1703820661387245
+p08,Hombre,55+,No religiosa,P11,2,Normalmente se puede confiar en la gente,126,0.4131506319934971
+p08,Hombre,55+,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",126,0.27389657522789185
+p08,Hombre,55+,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",126,0.14257072663988646
+p09,Hombre,55+,Religiosa,P42,1,No cree en Dios,114,0.01161715484480484
+p09,Hombre,55+,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,114,0.03679219256312002
+p09,Hombre,55+,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",114,0.021250117325396042
+p09,Hombre,55+,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",114,0.04859364753235683
+p09,Hombre,55+,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",114,0.17473770143004946
+p09,Hombre,55+,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,114,0.7070091863042727
+p09,Hombre,55+,Religiosa,P35,1,Muy de acuerdo,115,0.07257743274535103
+p09,Hombre,55+,Religiosa,P35,2,De acuerdo,115,0.28679668078147724
+p09,Hombre,55+,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,115,0.12411623904430788
+p09,Hombre,55+,Religiosa,P35,4,En desacuerdo,115,0.2758825640298906
+p09,Hombre,55+,Religiosa,P35,5,Muy en desacuerdo,115,0.24062708339897332
+p09,Hombre,55+,Religiosa,P11,1,Casi siempre se puede confiar en la gente,114,0.14350221539004454
+p09,Hombre,55+,Religiosa,P11,2,Normalmente se puede confiar en la gente,114,0.3492620815517881
+p09,Hombre,55+,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",114,0.3852038779576722
+p09,Hombre,55+,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",114,0.12203182510049511
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,1,No cree en Dios,47,0.017368267567327723
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,47,0.0
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",47,0.23172951658363225
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",47,0.25806911478907457
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",47,0.3512153062581689
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,47,0.1416177948017965
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,48,0.0
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P35,2,De acuerdo,48,0.0
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,48,0.016522958333216535
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P35,4,En desacuerdo,48,0.10423401391731504
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,48,0.8792430277494684
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,47,0.16279708725756115
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,47,0.3873936265079775
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",47,0.37181876094664795
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",47,0.07799052528781338
+p11,Mujer,18-34,No religiosa,P42,1,No cree en Dios,99,0.3697654189648813
+p11,Mujer,18-34,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,99,0.23677719570657488
+p11,Mujer,18-34,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",99,0.21597281441291438
+p11,Mujer,18-34,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",99,0.009488871973512121
+p11,Mujer,18-34,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",99,0.1084952143424599
+p11,Mujer,18-34,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,99,0.05950048459965739
+p11,Mujer,18-34,No religiosa,P35,1,Muy de acuerdo,99,0.0
+p11,Mujer,18-34,No religiosa,P35,2,De acuerdo,99,0.02117875569044264
+p11,Mujer,18-34,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,99,0.026916544332978357
+p11,Mujer,18-34,No religiosa,P35,4,En desacuerdo,99,0.13237190251965283
+p11,Mujer,18-34,No religiosa,P35,5,Muy en desacuerdo,99,0.8195327974569262
+p11,Mujer,18-34,No religiosa,P11,1,Casi siempre se puede confiar en la gente,99,0.08206820999030036
+p11,Mujer,18-34,No religiosa,P11,2,Normalmente se puede confiar en la gente,99,0.44228454108431337
+p11,Mujer,18-34,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",99,0.37242937956284883
+p11,Mujer,18-34,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",99,0.10321786936253739
+p12,Mujer,18-34,Religiosa,P42,1,No cree en Dios,53,0.04125995278882474
+p12,Mujer,18-34,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,53,0.0
+p12,Mujer,18-34,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",53,0.024103913313158795
+p12,Mujer,18-34,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",53,0.051896635994425726
+p12,Mujer,18-34,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",53,0.3018103119103382
+p12,Mujer,18-34,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,53,0.5809291859932525
+p12,Mujer,18-34,Religiosa,P35,1,Muy de acuerdo,53,0.021961940114195843
+p12,Mujer,18-34,Religiosa,P35,2,De acuerdo,53,0.08242385863728068
+p12,Mujer,18-34,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,53,0.060781643188211235
+p12,Mujer,18-34,Religiosa,P35,4,En desacuerdo,53,0.21030843607644217
+p12,Mujer,18-34,Religiosa,P35,5,Muy en desacuerdo,53,0.62452412198387
+p12,Mujer,18-34,Religiosa,P11,1,Casi siempre se puede confiar en la gente,53,0.08690130519253157
+p12,Mujer,18-34,Religiosa,P11,2,Normalmente se puede confiar en la gente,53,0.4718578895538883
+p12,Mujer,18-34,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",53,0.33413077060905194
+p12,Mujer,18-34,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",53,0.10711003464452819
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,1,No cree en Dios,77,0.0
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,77,0.08757952891452599
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",77,0.21541786130185275
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",77,0.09798441350301575
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",77,0.34839995709389127
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,77,0.2506182391867143
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,78,0.0
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P35,2,De acuerdo,78,0.016098127563424984
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,78,0.0450161467347453
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P35,4,En desacuerdo,78,0.21559073303314608
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,78,0.7232949926686837
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,78,0.09434000855833938
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,78,0.5189417597454492
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",78,0.2519311033827811
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",78,0.13478712831343034
+p14,Mujer,35-54,No religiosa,P42,1,No cree en Dios,144,0.3079318247011591
+p14,Mujer,35-54,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,144,0.2039703637786675
+p14,Mujer,35-54,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",144,0.17203376905864254
+p14,Mujer,35-54,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",144,0.11947881397995164
+p14,Mujer,35-54,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",144,0.12368978756655562
+p14,Mujer,35-54,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,144,0.07289544091502353
+p14,Mujer,35-54,No religiosa,P35,1,Muy de acuerdo,144,0.008763723587723348
+p14,Mujer,35-54,No religiosa,P35,2,De acuerdo,144,0.023482506191377345
+p14,Mujer,35-54,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,144,0.03035583724333976
+p14,Mujer,35-54,No religiosa,P35,4,En desacuerdo,144,0.2036649655584571
+p14,Mujer,35-54,No religiosa,P35,5,Muy en desacuerdo,144,0.7337329674191024
+p14,Mujer,35-54,No religiosa,P11,1,Casi siempre se puede confiar en la gente,145,0.13531960796808998
+p14,Mujer,35-54,No religiosa,P11,2,Normalmente se puede confiar en la gente,145,0.4384287058385021
+p14,Mujer,35-54,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",145,0.27611835428895043
+p14,Mujer,35-54,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",145,0.15013333190445755
+p15,Mujer,35-54,Religiosa,P42,1,No cree en Dios,111,0.007178578696969893
+p15,Mujer,35-54,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,111,0.016901674387509873
+p15,Mujer,35-54,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",111,0.021251385107572417
+p15,Mujer,35-54,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",111,0.05584815852308286
+p15,Mujer,35-54,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",111,0.26923348720802964
+p15,Mujer,35-54,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,111,0.6295867160768353
+p15,Mujer,35-54,Religiosa,P35,1,Muy de acuerdo,110,0.03705560213626479
+p15,Mujer,35-54,Religiosa,P35,2,De acuerdo,110,0.05113296793314686
+p15,Mujer,35-54,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,110,0.0966921158041492
+p15,Mujer,35-54,Religiosa,P35,4,En desacuerdo,110,0.14662414169589436
+p15,Mujer,35-54,Religiosa,P35,5,Muy en desacuerdo,110,0.6684951724305448
+p15,Mujer,35-54,Religiosa,P11,1,Casi siempre se puede confiar en la gente,112,0.08481926283748246
+p15,Mujer,35-54,Religiosa,P11,2,Normalmente se puede confiar en la gente,112,0.42018306337076644
+p15,Mujer,35-54,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",112,0.34476899540242817
+p15,Mujer,35-54,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",112,0.1502286783893228
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,1,No cree en Dios,64,0.0
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,64,0.0777111587646839
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",64,0.18121034959990823
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",64,0.13751168125171617
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",64,0.26926001301854385
+p16,Mujer,55+,Ni religiosa ni no religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,64,0.3343067973651479
+p16,Mujer,55+,Ni religiosa ni no religiosa,P35,1,Muy de acuerdo,63,0.02775777278242038
+p16,Mujer,55+,Ni religiosa ni no religiosa,P35,2,De acuerdo,63,0.045161133770926856
+p16,Mujer,55+,Ni religiosa ni no religiosa,P35,3,Ni de acuerdo ni en desacuerdo,63,0.12906098701470697
+p16,Mujer,55+,Ni religiosa ni no religiosa,P35,4,En desacuerdo,63,0.1878155095401949
+p16,Mujer,55+,Ni religiosa ni no religiosa,P35,5,Muy en desacuerdo,63,0.6102045968917508
+p16,Mujer,55+,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar en la gente,62,0.08192208673879983
+p16,Mujer,55+,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,62,0.3971207963041773
+p16,Mujer,55+,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",62,0.3564053684734965
+p16,Mujer,55+,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",62,0.16455174848352638
+p17,Mujer,55+,No religiosa,P42,1,No cree en Dios,58,0.3228890171959616
+p17,Mujer,55+,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,58,0.11372251173945687
+p17,Mujer,55+,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",58,0.17738335827559457
+p17,Mujer,55+,No religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",58,0.16798062193743313
+p17,Mujer,55+,No religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",58,0.1698725666670504
+p17,Mujer,55+,No religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,58,0.04815192418450345
+p17,Mujer,55+,No religiosa,P35,1,Muy de acuerdo,60,0.014786599926300366
+p17,Mujer,55+,No religiosa,P35,2,De acuerdo,60,0.048690002317369405
+p17,Mujer,55+,No religiosa,P35,3,Ni de acuerdo ni en desacuerdo,60,0.06272788943827197
+p17,Mujer,55+,No religiosa,P35,4,En desacuerdo,60,0.26751768157314654
+p17,Mujer,55+,No religiosa,P35,5,Muy en desacuerdo,60,0.6062778267449116
+p17,Mujer,55+,No religiosa,P11,1,Casi siempre se puede confiar en la gente,61,0.11017190073278152
+p17,Mujer,55+,No religiosa,P11,2,Normalmente se puede confiar en la gente,61,0.448408635161501
+p17,Mujer,55+,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",61,0.31218745922332686
+p17,Mujer,55+,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",61,0.12923200488239062
+p18,Mujer,55+,Religiosa,P42,1,No cree en Dios,211,0.005672154517081964
+p18,Mujer,55+,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,211,0.018081852929780075
+p18,Mujer,55+,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",211,0.027675982332022956
+p18,Mujer,55+,Religiosa,P42,4,"Se encuentra a sí mismo/a creyendo en Dios algunas veces, pero otras no",211,0.024918817570544077
+p18,Mujer,55+,Religiosa,P42,5,"Aunque tenga dudas, siente que cree en Dios",211,0.21972524312559458
+p18,Mujer,55+,Religiosa,P42,6,Sabe que Dios existe verdaderamente y no tiene ninguna duda al respecto,211,0.7039259495249763
+p18,Mujer,55+,Religiosa,P35,1,Muy de acuerdo,208,0.05919252213867476
+p18,Mujer,55+,Religiosa,P35,2,De acuerdo,208,0.11803842297781583
+p18,Mujer,55+,Religiosa,P35,3,Ni de acuerdo ni en desacuerdo,208,0.13317616840358876
+p18,Mujer,55+,Religiosa,P35,4,En desacuerdo,208,0.31045411863754646
+p18,Mujer,55+,Religiosa,P35,5,Muy en desacuerdo,208,0.37913876784237427
+p18,Mujer,55+,Religiosa,P11,1,Casi siempre se puede confiar en la gente,210,0.11025232585452975
+p18,Mujer,55+,Religiosa,P11,2,Normalmente se puede confiar en la gente,210,0.32274572923060146
+p18,Mujer,55+,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",210,0.3717642567527412
+p18,Mujer,55+,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",210,0.1952376881621276
