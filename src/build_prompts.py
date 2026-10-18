@@ -10,6 +10,10 @@ top, so in the reversed version both position and number change; each record's
 `number_to_code` maps the displayed number back to the CIS code (= the columns of
 personas.csv). Model distributions from the two orders are averaged downstream.
 
+No-persona baseline: persona "p00" is the same set of questions with no persona sentence at all
+(the prompt is just the question and options). It shows what the model answers by default and lets
+us test whether adding demographic information improves the match with each subgroup's answers.
+
 More option orders (--orders cyclic): besides the original/reversed pair, every item is shown
 with each cyclic rotation of the original list and of the reversed list (2k orders for an
 item with k options; names "rot1", "rrot1", ...; "original" = rot0, "reversed" = rrot0).
@@ -205,7 +209,12 @@ ITEMS = {
 }
 
 
+BASELINE_ID = "p00"
+
+
 def persona_text(persona: pd.Series, lang: str) -> str:
+    if persona["persona_id"] == BASELINE_ID:
+        return ""
     return PERSONA_TEMPLATE[lang].format(
         sex=SEX_TEXT[lang][persona["sex"]],
         age=AGE_TEXT[lang][persona["age_group"]],
@@ -256,7 +265,7 @@ def build_prompts(personas: pd.DataFrame, style: str, mode: str = "two") -> list
                         "order": order,
                         "persona_text": p_text,
                         "question_text": q_text,
-                        "prompt": f"{p_text}\n\n{q_text}",
+                        "prompt": f"{p_text}\n\n{q_text}" if p_text else q_text,
                         MAPPING_KEY[style]: label_to_code(item, lang, order, style, mode),
                     })
     return records
@@ -268,6 +277,7 @@ def main() -> None:
     args = parser.parse_args()
 
     personas = pd.read_csv(PROCESSED_DIR / "personas.csv")
+    personas = pd.concat([pd.DataFrame([{"persona_id": BASELINE_ID}]), personas], ignore_index=True)
     for style in LABELS:
         records = build_prompts(personas, style, args.orders)
         out_path = PROCESSED_DIR / output_file(style, args.orders)

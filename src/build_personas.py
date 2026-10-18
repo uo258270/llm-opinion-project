@@ -22,6 +22,8 @@ Variables (confirmed against cues3194.pdf / FT3194.pdf):
 Outputs (data/processed/):
     personas.csv                 one row per persona: cell counts + wide distributions
     persona_distributions.csv    long format: persona x item x category
+    population_distributions.csv whole-sample weighted distribution per item (reference for the
+                                 no-persona baseline), plus how much of the sample the personas cover
 """
 
 from __future__ import annotations
@@ -108,8 +110,17 @@ def main() -> None:
     wide.to_csv(OUT_DIR / "personas.csv", index=False)
     long.to_csv(OUT_DIR / "persona_distributions.csv", index=False)
 
+    pop_rows = []
+    for item in ITEMS:
+        n_valid, props = item_distribution(df, item)
+        pop_rows += [
+            {"item": item, "code": code, "n_valid": n_valid, "proportion": p} for code, p in props.items()
+        ]
+    pd.DataFrame(pop_rows).to_csv(OUT_DIR / "population_distributions.csv", index=False)
+
     n_total = len(add_persona_columns(df))
-    print(f"{len(wide)} personas with n >= {MIN_N}, covering {wide['n'].sum()}/{n_total} respondents")
+    print(f"{len(wide)} personas with n >= {MIN_N}, covering {wide['n'].sum()}/{n_total} respondents "
+          f"({wide['n'].sum() / len(df):.1%} of the {len(df)} in the survey)")
     cols = ["persona_id", *PERSONA_KEYS, "n", *[f"{i}_n_valid" for i in ITEMS]]
     print(wide[cols].to_string(index=False))
     low = wide[(wide[[f"{i}_n_valid" for i in ITEMS]] < MIN_N).any(axis=1)]
