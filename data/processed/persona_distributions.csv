@@ -14,6 +14,10 @@ p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confia
 p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,35,0.3751681646287442
 p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",35,0.5315276081676521
 p01,Hombre,18-34,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",35,0.0
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P33,1,Siempre está mal,33,0.027396158345900683
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,33,0.03990595255478073
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,33,0.11129007837395356
+p01,Hombre,18-34,Ni religiosa ni no religiosa,P33,4,Nunca está mal,33,0.821407810725365
 p02,Hombre,18-34,No religiosa,P42,1,No cree en Dios,100,0.4839980139767795
 p02,Hombre,18-34,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,100,0.25033683973214976
 p02,Hombre,18-34,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",100,0.14371616640450785
@@ -29,6 +33,10 @@ p02,Hombre,18-34,No religiosa,P11,1,Casi siempre se puede confiar en la gente,10
 p02,Hombre,18-34,No religiosa,P11,2,Normalmente se puede confiar en la gente,101,0.4077892172935197
 p02,Hombre,18-34,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",101,0.3088299506834071
 p02,Hombre,18-34,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",101,0.13698301703430932
+p02,Hombre,18-34,No religiosa,P33,1,Siempre está mal,96,0.056546939999997534
+p02,Hombre,18-34,No religiosa,P33,2,Casi siempre está mal,96,0.0067326292904497445
+p02,Hombre,18-34,No religiosa,P33,3,Algunas veces está mal,96,0.05239760133377911
+p02,Hombre,18-34,No religiosa,P33,4,Nunca está mal,96,0.8843228293757737
 p03,Hombre,18-34,Religiosa,P42,1,No cree en Dios,36,0.0
 p03,Hombre,18-34,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,36,0.027372516253550687
 p03,Hombre,18-34,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",36,0.027042301137344883
@@ -44,6 +52,10 @@ p03,Hombre,18-34,Religiosa,P11,1,Casi siempre se puede confiar en la gente,37,0.
 p03,Hombre,18-34,Religiosa,P11,2,Normalmente se puede confiar en la gente,37,0.3508959614391122
 p03,Hombre,18-34,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",37,0.331837249360337
 p03,Hombre,18-34,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",37,0.16658889238660948
+p03,Hombre,18-34,Religiosa,P33,1,Siempre está mal,34,0.14381641634555845
+p03,Hombre,18-34,Religiosa,P33,2,Casi siempre está mal,34,0.08746583005426425
+p03,Hombre,18-34,Religiosa,P33,3,Algunas veces está mal,34,0.21294538455343348
+p03,Hombre,18-34,Religiosa,P33,4,Nunca está mal,34,0.5557723690467438
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,1,No cree en Dios,79,0.04791905506336419
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,79,0.09614202457184519
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",79,0.16207526092072752
@@ -59,6 +71,10 @@ p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confia
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,79,0.3707476259739731
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",79,0.33314168038170466
 p04,Hombre,35-54,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",79,0.19930800972515728
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P33,1,Siempre está mal,71,0.15054353825375863
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,71,0.01617099831573451
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,71,0.13245737618029685
+p04,Hombre,35-54,Ni religiosa ni no religiosa,P33,4,Nunca está mal,71,0.70082808725021
 p05,Hombre,35-54,No religiosa,P42,1,No cree en Dios,176,0.42737517438413625
 p05,Hombre,35-54,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,176,0.17839480711163933
 p05,Hombre,35-54,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",176,0.1255275722265025
@@ -74,6 +90,10 @@ p05,Hombre,35-54,No religiosa,P11,1,Casi siempre se puede confiar en la gente,17
 p05,Hombre,35-54,No religiosa,P11,2,Normalmente se puede confiar en la gente,177,0.5013799350140056
 p05,Hombre,35-54,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",177,0.2901494772910152
 p05,Hombre,35-54,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",177,0.07344971594238307
+p05,Hombre,35-54,No religiosa,P33,1,Siempre está mal,169,0.09653451602175729
+p05,Hombre,35-54,No religiosa,P33,2,Casi siempre está mal,169,0.005482294193872671
+p05,Hombre,35-54,No religiosa,P33,3,Algunas veces está mal,169,0.021412542644633784
+p05,Hombre,35-54,No religiosa,P33,4,Nunca está mal,169,0.8765706471397363
 p06,Hombre,35-54,Religiosa,P42,1,No cree en Dios,87,0.0
 p06,Hombre,35-54,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,87,0.03283516381200707
 p06,Hombre,35-54,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",87,0.025159659485790402
@@ -89,6 +109,10 @@ p06,Hombre,35-54,Religiosa,P11,1,Casi siempre se puede confiar en la gente,87,0.
 p06,Hombre,35-54,Religiosa,P11,2,Normalmente se puede confiar en la gente,87,0.40379539815626025
 p06,Hombre,35-54,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",87,0.34378269740104667
 p06,Hombre,35-54,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",87,0.12846514692118546
+p06,Hombre,35-54,Religiosa,P33,1,Siempre está mal,79,0.1880254449728473
+p06,Hombre,35-54,Religiosa,P33,2,Casi siempre está mal,79,0.05387405399646252
+p06,Hombre,35-54,Religiosa,P33,3,Algunas veces está mal,79,0.10206738417905387
+p06,Hombre,35-54,Religiosa,P33,4,Nunca está mal,79,0.6560331168516362
 p07,Hombre,55+,Ni religiosa ni no religiosa,P42,1,No cree en Dios,81,0.043302539276406864
 p07,Hombre,55+,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,81,0.07014958851980069
 p07,Hombre,55+,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",81,0.14310220189632236
@@ -104,6 +128,10 @@ p07,Hombre,55+,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar 
 p07,Hombre,55+,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,82,0.4689566775811951
 p07,Hombre,55+,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",82,0.3387509745820313
 p07,Hombre,55+,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",82,0.08156009911000359
+p07,Hombre,55+,Ni religiosa ni no religiosa,P33,1,Siempre está mal,63,0.22473196839828072
+p07,Hombre,55+,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,63,0.09931676453383262
+p07,Hombre,55+,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,63,0.13637972167544957
+p07,Hombre,55+,Ni religiosa ni no religiosa,P33,4,Nunca está mal,63,0.5395715453924371
 p08,Hombre,55+,No religiosa,P42,1,No cree en Dios,125,0.3460197334057831
 p08,Hombre,55+,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,125,0.2584306905445197
 p08,Hombre,55+,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",125,0.12848770483343094
@@ -119,6 +147,10 @@ p08,Hombre,55+,No religiosa,P11,1,Casi siempre se puede confiar en la gente,126,
 p08,Hombre,55+,No religiosa,P11,2,Normalmente se puede confiar en la gente,126,0.4131506319934971
 p08,Hombre,55+,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",126,0.27389657522789185
 p08,Hombre,55+,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",126,0.14257072663988646
+p08,Hombre,55+,No religiosa,P33,1,Siempre está mal,113,0.12543613293838604
+p08,Hombre,55+,No religiosa,P33,2,Casi siempre está mal,113,0.08707632876102156
+p08,Hombre,55+,No religiosa,P33,3,Algunas veces está mal,113,0.039456718286367945
+p08,Hombre,55+,No religiosa,P33,4,Nunca está mal,113,0.7480308200142244
 p09,Hombre,55+,Religiosa,P42,1,No cree en Dios,114,0.01161715484480484
 p09,Hombre,55+,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,114,0.03679219256312002
 p09,Hombre,55+,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",114,0.021250117325396042
@@ -134,6 +166,10 @@ p09,Hombre,55+,Religiosa,P11,1,Casi siempre se puede confiar en la gente,114,0.1
 p09,Hombre,55+,Religiosa,P11,2,Normalmente se puede confiar en la gente,114,0.3492620815517881
 p09,Hombre,55+,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",114,0.3852038779576722
 p09,Hombre,55+,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",114,0.12203182510049511
+p09,Hombre,55+,Religiosa,P33,1,Siempre está mal,97,0.508348618562212
+p09,Hombre,55+,Religiosa,P33,2,Casi siempre está mal,97,0.08030209234171126
+p09,Hombre,55+,Religiosa,P33,3,Algunas veces está mal,97,0.07201616343354236
+p09,Hombre,55+,Religiosa,P33,4,Nunca está mal,97,0.3393331256625343
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,1,No cree en Dios,47,0.017368267567327723
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,47,0.0
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",47,0.23172951658363225
@@ -149,6 +185,10 @@ p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,47,0.3873936265079775
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",47,0.37181876094664795
 p10,Mujer,18-34,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",47,0.07799052528781338
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P33,1,Siempre está mal,47,0.0
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,47,0.0
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,47,0.01777370915550784
+p10,Mujer,18-34,Ni religiosa ni no religiosa,P33,4,Nunca está mal,47,0.9822262908444922
 p11,Mujer,18-34,No religiosa,P42,1,No cree en Dios,99,0.3697654189648813
 p11,Mujer,18-34,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,99,0.23677719570657488
 p11,Mujer,18-34,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",99,0.21597281441291438
@@ -164,6 +204,10 @@ p11,Mujer,18-34,No religiosa,P11,1,Casi siempre se puede confiar en la gente,99,
 p11,Mujer,18-34,No religiosa,P11,2,Normalmente se puede confiar en la gente,99,0.44228454108431337
 p11,Mujer,18-34,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",99,0.37242937956284883
 p11,Mujer,18-34,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",99,0.10321786936253739
+p11,Mujer,18-34,No religiosa,P33,1,Siempre está mal,97,0.02392375165107128
+p11,Mujer,18-34,No religiosa,P33,2,Casi siempre está mal,97,0.01409067783587617
+p11,Mujer,18-34,No religiosa,P33,3,Algunas veces está mal,97,0.030494120399636976
+p11,Mujer,18-34,No religiosa,P33,4,Nunca está mal,97,0.9314914501134156
 p12,Mujer,18-34,Religiosa,P42,1,No cree en Dios,53,0.04125995278882474
 p12,Mujer,18-34,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,53,0.0
 p12,Mujer,18-34,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",53,0.024103913313158795
@@ -179,6 +223,10 @@ p12,Mujer,18-34,Religiosa,P11,1,Casi siempre se puede confiar en la gente,53,0.0
 p12,Mujer,18-34,Religiosa,P11,2,Normalmente se puede confiar en la gente,53,0.4718578895538883
 p12,Mujer,18-34,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",53,0.33413077060905194
 p12,Mujer,18-34,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",53,0.10711003464452819
+p12,Mujer,18-34,Religiosa,P33,1,Siempre está mal,52,0.2247015620517639
+p12,Mujer,18-34,Religiosa,P33,2,Casi siempre está mal,52,0.0831460008604606
+p12,Mujer,18-34,Religiosa,P33,3,Algunas veces está mal,52,0.06730262415097801
+p12,Mujer,18-34,Religiosa,P33,4,Nunca está mal,52,0.6248498129367974
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,1,No cree en Dios,77,0.0
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,77,0.08757952891452599
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",77,0.21541786130185275
@@ -194,6 +242,10 @@ p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,78,0.5189417597454492
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",78,0.2519311033827811
 p13,Mujer,35-54,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",78,0.13478712831343034
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P33,1,Siempre está mal,78,0.03438317963243023
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,78,0.01616540940543759
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,78,0.039258041290234476
+p13,Mujer,35-54,Ni religiosa ni no religiosa,P33,4,Nunca está mal,78,0.9101933696718978
 p14,Mujer,35-54,No religiosa,P42,1,No cree en Dios,144,0.3079318247011591
 p14,Mujer,35-54,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,144,0.2039703637786675
 p14,Mujer,35-54,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",144,0.17203376905864254
@@ -209,6 +261,10 @@ p14,Mujer,35-54,No religiosa,P11,1,Casi siempre se puede confiar en la gente,145
 p14,Mujer,35-54,No religiosa,P11,2,Normalmente se puede confiar en la gente,145,0.4384287058385021
 p14,Mujer,35-54,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",145,0.27611835428895043
 p14,Mujer,35-54,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",145,0.15013333190445755
+p14,Mujer,35-54,No religiosa,P33,1,Siempre está mal,138,0.03946270657195822
+p14,Mujer,35-54,No religiosa,P33,2,Casi siempre está mal,138,0.0
+p14,Mujer,35-54,No religiosa,P33,3,Algunas veces está mal,138,0.020113684183753547
+p14,Mujer,35-54,No religiosa,P33,4,Nunca está mal,138,0.9404236092442881
 p15,Mujer,35-54,Religiosa,P42,1,No cree en Dios,111,0.007178578696969893
 p15,Mujer,35-54,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,111,0.016901674387509873
 p15,Mujer,35-54,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",111,0.021251385107572417
@@ -224,6 +280,10 @@ p15,Mujer,35-54,Religiosa,P11,1,Casi siempre se puede confiar en la gente,112,0.
 p15,Mujer,35-54,Religiosa,P11,2,Normalmente se puede confiar en la gente,112,0.42018306337076644
 p15,Mujer,35-54,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",112,0.34476899540242817
 p15,Mujer,35-54,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",112,0.1502286783893228
+p15,Mujer,35-54,Religiosa,P33,1,Siempre está mal,102,0.10012887009744964
+p15,Mujer,35-54,Religiosa,P33,2,Casi siempre está mal,102,0.0716018436377427
+p15,Mujer,35-54,Religiosa,P33,3,Algunas veces está mal,102,0.04343341838998582
+p15,Mujer,35-54,Religiosa,P33,4,Nunca está mal,102,0.7848358678748218
 p16,Mujer,55+,Ni religiosa ni no religiosa,P42,1,No cree en Dios,64,0.0
 p16,Mujer,55+,Ni religiosa ni no religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,64,0.0777111587646839
 p16,Mujer,55+,Ni religiosa ni no religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",64,0.18121034959990823
@@ -239,6 +299,10 @@ p16,Mujer,55+,Ni religiosa ni no religiosa,P11,1,Casi siempre se puede confiar e
 p16,Mujer,55+,Ni religiosa ni no religiosa,P11,2,Normalmente se puede confiar en la gente,62,0.3971207963041773
 p16,Mujer,55+,Ni religiosa ni no religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",62,0.3564053684734965
 p16,Mujer,55+,Ni religiosa ni no religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",62,0.16455174848352638
+p16,Mujer,55+,Ni religiosa ni no religiosa,P33,1,Siempre está mal,57,0.09204502268961155
+p16,Mujer,55+,Ni religiosa ni no religiosa,P33,2,Casi siempre está mal,57,0.014710379024956253
+p16,Mujer,55+,Ni religiosa ni no religiosa,P33,3,Algunas veces está mal,57,0.12576776531879444
+p16,Mujer,55+,Ni religiosa ni no religiosa,P33,4,Nunca está mal,57,0.7674768329666377
 p17,Mujer,55+,No religiosa,P42,1,No cree en Dios,58,0.3228890171959616
 p17,Mujer,55+,No religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,58,0.11372251173945687
 p17,Mujer,55+,No religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",58,0.17738335827559457
@@ -254,6 +318,10 @@ p17,Mujer,55+,No religiosa,P11,1,Casi siempre se puede confiar en la gente,61,0.
 p17,Mujer,55+,No religiosa,P11,2,Normalmente se puede confiar en la gente,61,0.448408635161501
 p17,Mujer,55+,No religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",61,0.31218745922332686
 p17,Mujer,55+,No religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",61,0.12923200488239062
+p17,Mujer,55+,No religiosa,P33,1,Siempre está mal,59,0.06737006129086416
+p17,Mujer,55+,No religiosa,P33,2,Casi siempre está mal,59,0.012313021453549143
+p17,Mujer,55+,No religiosa,P33,3,Algunas veces está mal,59,0.07915490144939522
+p17,Mujer,55+,No religiosa,P33,4,Nunca está mal,59,0.8411620158061914
 p18,Mujer,55+,Religiosa,P42,1,No cree en Dios,211,0.005672154517081964
 p18,Mujer,55+,Religiosa,P42,2,No sabe si Dios existe y no cree que haya forma de saberlo,211,0.018081852929780075
 p18,Mujer,55+,Religiosa,P42,3,"No cree en un Dios 'personal', pero sí en un poder superior de algún tipo",211,0.027675982332022956
@@ -269,3 +337,7 @@ p18,Mujer,55+,Religiosa,P11,1,Casi siempre se puede confiar en la gente,210,0.11
 p18,Mujer,55+,Religiosa,P11,2,Normalmente se puede confiar en la gente,210,0.32274572923060146
 p18,Mujer,55+,Religiosa,P11,3,"Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",210,0.3717642567527412
 p18,Mujer,55+,Religiosa,P11,4,"Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",210,0.1952376881621276
+p18,Mujer,55+,Religiosa,P33,1,Siempre está mal,174,0.2883397688252029
+p18,Mujer,55+,Religiosa,P33,2,Casi siempre está mal,174,0.06310091870140437
+p18,Mujer,55+,Religiosa,P33,3,Algunas veces está mal,174,0.08731043694040874
+p18,Mujer,55+,Religiosa,P33,4,Nunca está mal,174,0.5612488755329841

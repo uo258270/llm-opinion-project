@@ -16,6 +16,8 @@ Variables (confirmed against cues3194.pdf / FT3194.pdf):
     P35   "La responsabilidad del marido consiste en ganar dinero; la de la mujer en
           cuidar de la casa y de la familia"   1-5 substantive (1 = Muy de acuerdo)
     P11   generalised interpersonal trust      1-4 substantive
+    P33   sexual relations between two adults of the same sex: 1 Siempre está mal ...
+          4 Nunca está mal (LGTBI item)         1-4 substantive
 
 Outputs (data/processed/):
     personas.csv                 one row per persona: cell counts + wide distributions
@@ -47,6 +49,7 @@ ITEMS = {
     "P42": [1, 2, 3, 4, 5, 6],
     "P35": [1, 2, 3, 4, 5],
     "P11": [1, 2, 3, 4],
+    "P33": [1, 2, 3, 4],
 }
 
 PERSONA_KEYS = ["sex", "age_group", "religiosity"]
