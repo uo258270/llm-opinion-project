@@ -31,6 +31,7 @@ from __future__ import annotations
 import pandas as pd
 
 from load_cis3194 import PROJECT_ROOT, load_cis3194
+from questions import load_questions
 
 OUT_DIR = PROJECT_ROOT / "data" / "processed"
 
@@ -46,13 +47,8 @@ RELIGIOSITY = {1: "Religiosa", 2: "Religiosa", 3: "Religiosa",
 AGE_BINS = [17, 34, 54, 200]
 AGE_LABELS = ["18-34", "35-54", "55+"]
 
-# item -> substantive codes (8 = N.S. and 9 = N.C. are excluded)
-ITEMS = {
-    "P42": [1, 2, 3, 4, 5, 6],
-    "P35": [1, 2, 3, 4, 5],
-    "P11": [1, 2, 3, 4],
-    "P33": [1, 2, 3, 4],
-}
+# item -> substantive codes (N.S./N.C. excluded), from config/questions.json
+ITEMS = {item: spec["codes"] for item, spec in load_questions().items()}
 
 PERSONA_KEYS = ["sex", "age_group", "religiosity"]
 

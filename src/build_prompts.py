@@ -51,6 +51,7 @@ import json
 import pandas as pd
 
 from load_cis3194 import PROJECT_ROOT
+from questions import load_questions
 
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
@@ -83,8 +84,8 @@ PERSONA_TEMPLATE = {
 }
 # Option labels, top to bottom, and the matching answer instruction per label style.
 LABELS = {
-    "numbers": ["1", "2", "3", "4", "5", "6"],
-    "letters": ["A", "B", "C", "D", "E", "F"],
+    "numbers": [str(i) for i in range(1, 13)],  # up to 12 options per question
+    "letters": list("ABCDEFGHIJKL"),
 }
 INSTRUCTION = {
     "numbers": {
@@ -97,116 +98,15 @@ INSTRUCTION = {
     },
 }
 MAPPING_KEY = {"numbers": "number_to_code", "letters": "label_to_code"}
+
+
 def output_file(style: str, orders: str) -> str:
     infix = "_cyclic" if orders == "cyclic" else ""
     return f"prompts{infix}{'_letters' if style == 'letters' else ''}.jsonl"
 
 ANSWER_CUE = {"es": "Respuesta:", "en": "Answer:"}
 
-ITEMS = {
-    "P42": {
-        "es": {
-            "question": "¿Cuál de las siguientes frases refleja mejor tus sentimientos acerca de creer o no creer en Dios?",
-            "options": {
-                1: "No creo en Dios",
-                2: "No sé si Dios existe y no creo que haya forma de saberlo",
-                3: 'No creo en un Dios "personal", pero sí en un poder superior de algún tipo',
-                4: "Me encuentro a mí mismo/a creyendo en Dios algunas veces, pero otras no",
-                5: "Aunque tenga dudas, siento que creo en Dios",
-                6: "Sé que Dios existe verdaderamente y no tengo ninguna duda al respecto",
-            },
-        },
-        "en": {
-            "question": "Please indicate which statement below comes closest to expressing what you believe about God.",
-            "options": {
-                1: "I don't believe in God",
-                2: "I don't know whether there is a God and I don't believe there is any way to find out",
-                3: "I don't believe in a personal God, but do believe in a Higher Power of some kind",
-                4: "I find myself believing in God some of the time, but not at others",
-                5: "While I have doubts, I feel that I do believe in God",
-                6: "I know that God really exists and I have no doubts about it",
-            },
-        },
-    },
-    "P35": {
-        "es": {
-            "question": (
-                "¿En qué medida estás de acuerdo o en desacuerdo con la siguiente frase? "
-                "«La responsabilidad del marido consiste en ganar dinero; la de la mujer en cuidar de la casa y de la familia»."
-            ),
-            "options": {
-                1: "Muy de acuerdo",
-                2: "De acuerdo",
-                3: "Ni de acuerdo ni en desacuerdo",
-                4: "En desacuerdo",
-                5: "Muy en desacuerdo",
-            },
-        },
-        "en": {
-            "question": (
-                "To what extent do you agree or disagree with the following statement? "
-                "\"A man's job is to earn money; a woman's job is to look after the home and family.\""
-            ),
-            "options": {
-                1: "Strongly Agree",
-                2: "Agree",
-                3: "Neither Agree Nor Disagree",
-                4: "Disagree",
-                5: "Strongly Disagree",
-            },
-        },
-    },
-    "P11": {
-        "es": {
-            "question": (
-                "En general, ¿dirías que se puede confiar en la gente o que todas las precauciones "
-                "son pocas a la hora de tratar con gente?"
-            ),
-            "options": {
-                1: "Casi siempre se puede confiar en la gente",
-                2: "Normalmente se puede confiar en la gente",
-                3: "Normalmente, todas las precauciones son pocas a la hora de tratar con la gente",
-                4: "Casi siempre, todas las precauciones son pocas a la hora de tratar con la gente",
-            },
-        },
-        "en": {
-            "question": (
-                "Generally speaking, would you say that people can be trusted or that you can't be "
-                "too careful in dealing with people?"
-            ),
-            "options": {
-                1: "People can almost always be trusted",
-                2: "People can usually be trusted",
-                3: "You usually can't be too careful in dealing with people",
-                4: "You almost always can't be too careful in dealing with people",
-            },
-        },
-    },
-    "P33": {
-        "es": {
-            "question": "¿Qué opinas de las relaciones sexuales entre dos adultos/as del mismo sexo? ¿Consideras que...?",
-            "options": {
-                1: "Siempre está mal",
-                2: "Casi siempre está mal",
-                3: "Algunas veces está mal",
-                4: "Nunca está mal",
-            },
-        },
-        # ISSP master-questionnaire wording: check against the source questionnaire before the final runs.
-        "en": {
-            "question": (
-                "What about sexual relations between two adults of the same sex: "
-                "do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all?"
-            ),
-            "options": {
-                1: "Always wrong",
-                2: "Almost always wrong",
-                3: "Wrong only sometimes",
-                4: "Not wrong at all",
-            },
-        },
-    },
-}
+ITEMS = load_questions()  # config/questions.json
 
 
 BASELINE_ID = "p00"
