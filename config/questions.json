@@ -11,7 +11,7 @@
       6
     ],
     "es": {
-      "question": "¿Cuál de las siguientes frases refleja mejor tus sentimientos acerca de creer o no creer en Dios?",
+      "question": "¿Podría indicarme, por favor, cuál de las siguientes frases refleja mejor sus sentimientos acerca de creer o no creer en Dios?",
       "options": {
         "1": "No creo en Dios",
         "2": "No sé si Dios existe y no creo que haya forma de saberlo",
@@ -24,14 +24,15 @@
     "en": {
       "question": "Please indicate which statement below comes closest to expressing what you believe about God.",
       "options": {
-        "1": "I don't believe in God",
-        "2": "I don't know whether there is a God and I don't believe there is any way to find out",
-        "3": "I don't believe in a personal God, but do believe in a Higher Power of some kind",
-        "4": "I find myself believing in God some of the time, but not at others",
-        "5": "While I have doubts, I feel that I do believe in God",
-        "6": "I know that God really exists and I have no doubts about it"
+        "1": "I don't believe in God.",
+        "2": "I don't know whether there is a God and I don't believe there is any way to find out.",
+        "3": "I don't believe in a personal God, but I do believe in a Higher Power of some kind.",
+        "4": "I find myself believing in God some of the time, but not at others.",
+        "5": "While I have doubts, I feel that I do believe in God.",
+        "6": "I know God really exists and I have no doubts about it."
       }
-    }
+    },
+    "source": "Spanish: CIS 3194 questionnaire (question) and show card (options). English: ISSP 2018 Religion IV basic questionnaire."
   },
   "P35": {
     "topic": "Gender roles",
@@ -44,7 +45,7 @@
       5
     ],
     "es": {
-      "question": "¿En qué medida estás de acuerdo o en desacuerdo con la siguiente frase? «La responsabilidad del marido consiste en ganar dinero; la de la mujer en cuidar de la casa y de la familia».",
+      "question": "¿Podría decirme, por favor, en qué medida está Ud. de acuerdo o en desacuerdo con la siguiente frase? “La responsabilidad del marido consiste en ganar dinero; la de la mujer en cuidar de la casa y de la familia”.",
       "options": {
         "1": "Muy de acuerdo",
         "2": "De acuerdo",
@@ -54,15 +55,16 @@
       }
     },
     "en": {
-      "question": "To what extent do you agree or disagree with the following statement? \"A man's job is to earn money; a woman's job is to look after the home and family.\"",
+      "question": "Do you agree or disagree with the following statement? A husband's job is to earn money; a wife's job is to look after the home and family.",
       "options": {
-        "1": "Strongly Agree",
+        "1": "Strongly agree",
         "2": "Agree",
-        "3": "Neither Agree Nor Disagree",
+        "3": "Neither agree nor disagree",
         "4": "Disagree",
-        "5": "Strongly Disagree"
+        "5": "Strongly disagree"
       }
-    }
+    },
+    "source": "Spanish: CIS 3194 questionnaire (question) and show card (options). English: ISSP 2018 Religion IV basic questionnaire."
   },
   "P11": {
     "topic": "Generalised trust",
@@ -74,7 +76,7 @@
       4
     ],
     "es": {
-      "question": "En general, ¿dirías que se puede confiar en la gente o que todas las precauciones son pocas a la hora de tratar con gente?",
+      "question": "En general, ¿diría Ud. que se puede confiar en la gente o que todas las precauciones son pocas a la hora de tratar con gente?",
       "options": {
         "1": "Casi siempre se puede confiar en la gente",
         "2": "Normalmente se puede confiar en la gente",
@@ -90,7 +92,8 @@
         "3": "You usually can't be too careful in dealing with people",
         "4": "You almost always can't be too careful in dealing with people"
       }
-    }
+    },
+    "source": "Spanish: CIS 3194 questionnaire (question) and show card (options). English: ISSP 2018 Religion IV basic questionnaire."
   },
   "P33": {
     "topic": "Same-sex relations (LGTBI)",
@@ -102,7 +105,7 @@
       4
     ],
     "es": {
-      "question": "¿Qué opinas de las relaciones sexuales entre dos adultos/as del mismo sexo? ¿Consideras que...?",
+      "question": "Y, ¿qué opina Ud. de las relaciones sexuales entre dos adultos/as del mismo sexo? ¿Considera Ud. que...?",
       "options": {
         "1": "Siempre está mal",
         "2": "Casi siempre está mal",
@@ -111,7 +114,7 @@
       }
     },
     "en": {
-      "question": "What about sexual relations between two adults of the same sex: do you think it is always wrong, almost always wrong, wrong only sometimes, or not wrong at all?",
+      "question": "And what about sexual relations between two adults of the same sex, is it...",
       "options": {
         "1": "Always wrong",
         "2": "Almost always wrong",
@@ -119,6 +122,6 @@
         "4": "Not wrong at all"
       }
     },
-    "note": "English wording written from memory; check against the ISSP questionnaire before the final runs."
+    "source": "Spanish: CIS 3194 questionnaire (question) and show card (options). English: ISSP 2018 Religion IV basic questionnaire."
   }
 }

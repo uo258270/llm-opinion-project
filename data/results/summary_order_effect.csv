@@ -1,0 +1,7 @@
+model,method,P11,P33,P35,P42
+Mistral-7B-Instruct-v0.3,prob,0.64,0.22,0.18,0.62
+Mistral-7B-Instruct-v0.3,prompt,0.62,0.2,0.16,0.59
+Mistral-7B-Instruct-v0.3,prompt_greedy,0.61,0.21,0.16,0.61
+Qwen2.5-7B-Instruct,prob,0.43,0.07,0.75,0.47
+Qwen2.5-7B-Instruct,prompt,0.43,0.09,0.72,0.46
+Qwen2.5-7B-Instruct,prompt_greedy,0.5,0.11,0.87,0.45

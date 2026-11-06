@@ -26,17 +26,14 @@ Label control: the same prompts are also written with lettered options ("A.", "B
 from the answer token (digit) rather than from the option content. Letter records use
 `label_to_code` instead of `number_to_code`; everything else is identical.
 
-Wording:
-  - Spanish: CIS 3194 questionnaire (cues3194.pdf), with two adaptations:
-    questions are put in "tú" instead of "Ud." to match the persona text and the
-    English "you"; P42's options, printed in the third person for the interviewer
-    ("No cree en Dios"), are put in the first person.
-  - English: official ISSP master-questionnaire wording (2017 Social Networks,
-    2018 Religion), checked against the source questionnaires. P35 is the ISSP trend
-    item ("A man's job ... a woman's job ..."), so it keeps that wording even though
-    the CIS version says "marido"/"mujer" (husband/wife).
-  - Both languages say the persona lives in Spain, so language is the only thing
-    that differs between the two versions of a prompt.
+Wording (the question texts are in config/questions.json, taken word for word from the sources):
+  - Spanish: CIS 3194 questionnaire (cues3194.pdf) for the question, and the show cards (tarjetas3194.pdf)
+    for the answer options, which are the texts the respondents read (P42's options are in the first person there).
+    The interviewer instructions in the questionnaire ("MOSTRAR TARJETA", "UNA SOLA RESPUESTA") are left out.
+  - English: ISSP 2018 Religion IV basic questionnaire: Q13 (belief about God), Q4 (same-sex relations),
+    Q6 (husband's / wife's job) and optional Q7 (trust).
+  - Not part of the survey text: the persona sentence, the numbering of the options and the final instruction
+    ("answer only with the number...") and answer cue. Both languages say the persona lives in Spain.
 
 Outputs (data/processed/, one JSON object per line):
     prompts.jsonl           numbered options (1, 2, 3, ...)
@@ -79,7 +76,7 @@ RELIGIOSITY_TEXT = {
     },
 }
 PERSONA_TEMPLATE = {
-    "es": "Eres {sex} {age} que vive en España. Te consideras {religiosity}.",
+    "es": "Usted es {sex} {age} que vive en España. Se considera {religiosity}.",
     "en": "You are {sex} {age} living in Spain. You consider yourself {religiosity}.",
 }
 # Option labels, top to bottom, and the matching answer instruction per label style.
@@ -89,11 +86,11 @@ LABELS = {
 }
 INSTRUCTION = {
     "numbers": {
-        "es": "Responde únicamente con el número de la opción que mejor refleje tu opinión.",
+        "es": "Responda únicamente con el número de la opción que mejor refleje su opinión.",
         "en": "Answer only with the number of the option that best reflects your view.",
     },
     "letters": {
-        "es": "Responde únicamente con la letra de la opción que mejor refleje tu opinión.",
+        "es": "Responda únicamente con la letra de la opción que mejor refleje su opinión.",
         "en": "Answer only with the letter of the option that best reflects your view.",
     },
 }

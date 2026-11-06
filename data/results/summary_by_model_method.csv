@@ -1,0 +1,7 @@
+model,method,jsd_to_survey,order_tv,valid_mass_min
+Mistral-7B-Instruct-v0.3,prob,0.501,0.414,0.928
+Mistral-7B-Instruct-v0.3,prompt,0.513,0.394,0.92
+Mistral-7B-Instruct-v0.3,prompt_greedy,0.539,0.395,0.987
+Qwen2.5-7B-Instruct,prob,0.484,0.429,0.996
+Qwen2.5-7B-Instruct,prompt,0.49,0.427,0.997
+Qwen2.5-7B-Instruct,prompt_greedy,0.533,0.48,1.0

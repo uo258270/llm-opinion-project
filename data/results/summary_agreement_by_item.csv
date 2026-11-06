@@ -1,0 +1,13 @@
+pair,item,Mistral-7B-Instruct-v0.3,Qwen2.5-7B-Instruct
+prob vs prompt,P11,0.08,0.09
+prob vs prompt,P33,0.06,0.04
+prob vs prompt,P35,0.06,0.1
+prob vs prompt,P42,0.08,0.09
+prob vs prompt_greedy,P11,0.13,0.17
+prob vs prompt_greedy,P33,0.1,0.09
+prob vs prompt_greedy,P35,0.09,0.13
+prob vs prompt_greedy,P42,0.12,0.13
+prompt vs prompt_greedy,P11,0.13,0.17
+prompt vs prompt_greedy,P33,0.08,0.09
+prompt vs prompt_greedy,P35,0.06,0.12
+prompt vs prompt_greedy,P42,0.1,0.11

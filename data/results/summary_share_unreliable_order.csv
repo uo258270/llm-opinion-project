@@ -1,0 +1,7 @@
+model,method,unreliable_order
+Mistral-7B-Instruct-v0.3,prob,0.3
+Mistral-7B-Instruct-v0.3,prompt,0.31
+Mistral-7B-Instruct-v0.3,prompt_greedy,0.39
+Qwen2.5-7B-Instruct,prob,0.23
+Qwen2.5-7B-Instruct,prompt,0.23
+Qwen2.5-7B-Instruct,prompt_greedy,0.48

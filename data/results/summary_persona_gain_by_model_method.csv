@@ -1,0 +1,7 @@
+model,method,jsd_persona,jsd_no_persona,gain
+Mistral-7B-Instruct-v0.3,prob,0.501,0.51,0.008
+Mistral-7B-Instruct-v0.3,prompt,0.511,0.541,0.03
+Mistral-7B-Instruct-v0.3,prompt_greedy,0.537,0.584,0.047
+Qwen2.5-7B-Instruct,prob,0.482,0.521,0.038
+Qwen2.5-7B-Instruct,prompt,0.491,0.504,0.013
+Qwen2.5-7B-Instruct,prompt_greedy,0.531,0.568,0.037

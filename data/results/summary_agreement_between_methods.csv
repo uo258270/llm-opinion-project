@@ -1,0 +1,3 @@
+model,prob vs prompt,prob vs prompt_greedy,prompt vs prompt_greedy
+Mistral-7B-Instruct-v0.3,0.071,0.109,0.091
+Qwen2.5-7B-Instruct,0.079,0.129,0.122
